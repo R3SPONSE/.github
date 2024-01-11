@@ -1,5 +1,5 @@
 
-<img src='https://github.com/R3SPONSE/r3sponse.github.io/blob/main/img/shared/R3SPONSE-DFIR-logo-color-no-bg.svg?raw=true' width='300'>
+<img src='https://github.com/R3SPONSE/r3sponse.github.io/blob/main/docs/images/R3SPONSE-DFIR-logo-color-no-bg.svg?raw=true' width='300'>
 Welcome to R3SPONSE, a dynamic and ever-developing digital forensics and incident response framework designed to empower computer incident response specialists, CERTs, CSIRTs, and organizations in preparing for and effectively managing cybersecurity incidents. R3SPONSE is built with a focus on incident handling, mitigation, and recovery, drawing inspiration from established frameworks such as MITRE's ATT&CK and D3F3ND.
 
 ### Projects
